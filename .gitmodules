@@ -1,0 +1,3 @@
+[submodule "src/projectaria_eyetracking"]
+	path = src/projectaria_eyetracking
+	url = https://github.com/facebookresearch/projectaria_eyetracking.git
