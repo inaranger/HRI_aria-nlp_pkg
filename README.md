@@ -15,7 +15,7 @@ This library is one of two components in a complete multimodal manipulation syst
 
 ## Requirements
 
-- Ubuntu 22+
+- Ubuntu 24
 - Python 3.8+
 - Project Aria glasses
 - [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork) installation
